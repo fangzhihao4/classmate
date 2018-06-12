@@ -15,7 +15,7 @@ class Index extends controller
     		// $data = 3;
     		$data =  array(  
 			    "ren"=>"5",
-			    "name"=>"世界级飞科剃须刀",
+			    "name"=>"世界级飞科剃须刀ceshi",
 			    "type"=> "土豪金",
 			    "number"=> "3",
 			    "price"=> "158.8",
